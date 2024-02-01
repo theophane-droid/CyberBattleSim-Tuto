@@ -66,7 +66,7 @@ The tutorials cover a range of topics, from basic to more advanced techniques in
 
 Each tutorial is related to an article (for now only in french) here are the articles :
 1. [Introduction](https://medium.com/@theodesile/1-application-de-lapprentissage-par-renforcement-en-cybers%C3%A9curit%C3%A9-cd94c843231d)
-2. [RL Training]() 
+2. [RL Training](https://medium.com/@theodesile/2-application-de-lapprentissage-par-renforcement-en-cybers%C3%A9curit%C3%A9-7ef44b8d4b20)
 
 ## Contributing
 
